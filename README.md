@@ -1,3 +1,4 @@
+<pre>
 --> Importing pandas<br />
 --> Loading dataset to a Dataframe<br />
 --> Preprocessing<br />
@@ -9,5 +10,7 @@
       3. Fitting of X and Y to the model<br />
       4. Salary prediction<br />
 --> Modifying the created model to predict Salary output for any User input dynamically<br />
+      
+</pre>
 
       
